@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="apps\watch\board\br28\board_701n_demo\board_701n_demo_cfg.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="34174" topLine="600" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\gSensor\SL_Watch_Pedo_Kcal_Wrist_Sleep_Sway_Algorithm.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11776" topLine="231" />
+		</Cursor>
+	</File>
+	<File name="include_lib\driver\cpu\br28\asm\cpu.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\common\sport_data\heart_rate.c" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18299" topLine="460" />
+		</Cursor>
+	</File>
+	<File name="cpu\br28\iic_soft.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1313" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\common\sport_data\watch_common.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5622" topLine="104" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\app_main.c" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1169" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="include_lib\driver\cpu\br28\asm\power\p11_sfr.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2915" topLine="79" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\gSensor\SC7A20.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="221" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include_lib\system\generic\typedef.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2065" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\gSensor\SL_Watch_Pedo_Kcal_Wrist_Sleep_Sway_Application.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11552" topLine="304" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\gSensor\gSensor_manage.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6265" topLine="204" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\hx3605\hx3605_hrs_agc.c" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6092" topLine="205" />
+		</Cursor>
+	</File>
+	<File name="include_lib\driver\cpu\br28\asm\iic_soft.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="267" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\board\br28\board_701n_demo\board_701n_demo.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2614" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="include_lib\system\debug.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4512" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\include\app_task.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1718" topLine="62" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\smartbox\cmd_data_deal\cmd_recieve.c" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10738" topLine="327" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\hx3605\hx3605.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="52116" topLine="1500" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\smartbox\file_transfer\file_simple_transfer.c" open="1" top="1" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6412" topLine="206" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\ui\lcd\STYLE_WATCH_NEW\ui_action_watch.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9877" topLine="370" />
+		</Cursor>
+	</File>
+	<File name="apps\common\device\gSensor\gSensor_manage.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="249" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\board\br28\board_7012a_demo\board_7012a_demo.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17728" topLine="509" />
+		</Cursor>
+	</File>
+	<File name="apps\watch\common\sport_data\blood_oxygen.c" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="432" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
